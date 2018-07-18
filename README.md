@@ -23,12 +23,6 @@ https://t.me/programandonagringa
     - Vagas em diversas Empresas e Startups na Europa 
 - https://itjobs.pt
     - Vagas para TI focadas em Portugal
-- https://www.indeed.com.br/
-    - Site para busca de emprego em todo mundo
-    
-## Freelance
-- https://crowd.br.com/
-    - Site para buscar freelas, onde você colocar seu portfólio e as empresas te selecionam
     
 ## Conteúdo
 
