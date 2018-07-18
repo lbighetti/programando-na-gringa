@@ -21,7 +21,15 @@ https://t.me/programandonagringa
     - Disclaimer: esse link conta como referral para mim (@lbighetti)
 - https://landing.jobs/
     - Vagas em diversas Empresas e Startups na Europa 
-
+- https://itjobs.pt
+    - Vagas para TI focadas em Portugal
+- https://www.indeed.com.br/
+    - Site para busca de emprego em todo mundo
+    
+## Freelance
+- https://crowd.br.com/
+    - Site para buscar freelas, onde você colocar seu portfólio e as empresas te selecionam
+    
 ## Conteúdo
 
 - [Programando na Gringa YouTube channel](https://www.youtube.com/channel/UCKN63lTXUgCSjR5gPNDUjmw?view_as=subscriber) - canal do [Leandro Bighetti](https://github.com/lbighetti)
