@@ -4,8 +4,9 @@ Tudo sobre trabalho no exterior!
 
 ## Telegram
 
-Junte-se ao nosso grupo de telegram!
+Junte-se ao nosso grupo de [Telegram](https://telegram.org/)!  
 O grupo é bem ativo, com vários programadores(as) procurando trabalho no exterior, no processo seletivo / testes, e também muitos que já trabalham no exterior.
+
 Traga suas dúvidas :)
 
 https://t.me/programandonagringa
@@ -38,7 +39,7 @@ https://t.me/programandonagringa
 
 ## Recruiters Confiáveis
 
-- Liam Caffrey / MentorTalent
+- **Liam Caffrey / MentorTalent**
     - Descrição
         - Especializam em vagas de Web, Mobile e Data Engineering Roles pela Europa em particular Irlanda, Alemanha, Espanha and Holanda.
     - Contato (em inglês):
@@ -47,3 +48,11 @@ https://t.me/programandonagringa
         - Website: mentortalent.ie
         - Twitter: @MentorTalent
         - LinkedIN: @Mentor Talent Acquisition
+
+- **Jorge Revenga / 0to1-Solutions**
+    - Descrição
+        - Especializados em vagas para desenvolvimento de jogos.
+    - Contato:
+        - Email: contact@0to1-solutions.com
+        - Website: http://www.0to1-solutions.com
+        - LinkedIn: https://www.linkedin.com/in/jorge-revenga-de-ramiro-abb95011a/
