@@ -36,5 +36,12 @@ https://t.me/programandonagringa
 
 ## Recruiters Confiáveis
 
-- Liam Caffrey (pedir email pro Leandro telegram: @leandrobighetti)
-    - Confirmando com ele se posso colocar o email dele aqui diretamente
+- Liam Caffrey / MentorTalent
+    - Descrição
+        - Especializam em vagas de Web, Mobile e Data Engineering Roles pela Europa em particular Irlanda, Alemanha, Espanha and Holanda.
+    - Contato (em inglês):
+        - Email Pessoal: liam@mentortalent.ie
+        - Email Geral: info@mentortalent.ie
+        - Website: mentortalent.ie
+        - Twitter: @MentorTalent
+        - LinkedIN: @Mentor Talent Acquisition
