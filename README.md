@@ -29,6 +29,10 @@ https://t.me/programandonagringa
 - https://www.indeed.com/worldwide
     - Link geral do indeed, onde você escolhe o país para buscar as oportunidades
     - Na parte de cima do site há também links para consulta de salários e review de empresas
+- https://www.cwjobs.co.uk/
+    - Site de emprego do Reino Unido
+- https://www.monster.co.uk/
+    - Site de emprego do Reino Unido
 
 ## Conteúdo
 
