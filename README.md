@@ -22,7 +22,9 @@ https://t.me/programandonagringa
     - Disclaimer: esse link conta como referral para mim (@lbighetti)
 - https://landing.jobs/
     - Vagas em diversas Empresas e Startups na Europa 
-
+- https://itjobs.pt
+    - Vagas para TI focadas em Portugal
+    
 ## Conteúdo
 
 - [Programando na Gringa YouTube channel](https://www.youtube.com/channel/UCKN63lTXUgCSjR5gPNDUjmw?view_as=subscriber) - canal do [Leandro Bighetti](https://github.com/lbighetti)
