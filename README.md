@@ -21,7 +21,9 @@ https://t.me/programandonagringa
     - Plataforma de vagas em que as empresas "aplicam" pros developers.
     - Disclaimer: esse link conta como referral para mim (@lbighetti)
 - https://landing.jobs/
-    - Vagas em diversas Empresas e Startups na Europa 
+    - Vagas em diversas Empresas e Startups na Europa
+- http://www.trustinsoda.com/
+    - Agencia de Recruiting para Empresas e Startups na Europa
 
 ## Conteúdo
 
