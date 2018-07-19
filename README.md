@@ -24,6 +24,11 @@ https://t.me/programandonagringa
     - Vagas em diversas Empresas e Startups na Europa
 - http://www.trustinsoda.com/
     - Agencia de Recruiting para Empresas e Startups na Europa
+- https://itjobs.pt
+    - Vagas para TI focadas em Portugal
+- https://www.indeed.com/worldwide
+    - Link geral do indeed, onde você escolhe o país para buscar as oportunidades
+    - Na parte de cima do site há também links para consulta de salários e review de empresas
 
 ## Conteúdo
 
