@@ -27,7 +27,5 @@
 
 ## Artigos
 
-### Portugal & Recibos Verdes
-
 - https://www.contasconnosco.pt/artigo/e-trabalhador-a-recibos-verdes-conheca-os-seus-direitos
 - https://www.economias.pt/recibos-verdes-mudancas/
