@@ -2,7 +2,7 @@
 
 ## Vídeos
 
-- [Programando na Gringa YouTube channel](https://www.youtube.com/channel/UCKN63lTXUgCSjR5gPNDUjmw?view_as=subscriber) - canal do [Leandro Bighetti](https://github.com/lbighetti)
+- [Programando na Gringa/Leandro Bighetti](https://www.youtube.com/c/LeandroBighetti) - canal do [Leandro Bighetti](https://github.com/lbighetti)
     - [VAGAS NO EXTERIOR: O que é necessário ?](https://www.youtube.com/watch?v=oM79eDjjs0Y)
     - [Top 5 Linguagens para Trabalhar na Europa (2018)](https://www.youtube.com/watch?v=mhlVya129fQ)
     - [Metodologias ÁGEIS mais usada na Europa!](https://www.youtube.com/watch?v=jBnU3t_e1q8&t=152s)
@@ -11,8 +11,8 @@
     - [VAGAS NA ALEMANHA: Alemão é necessário?](https://www.youtube.com/watch?v=yKDKy_IKHC8&t=67s)
     - [Emprego no exterior: QUAL O SEGREDO?](https://www.youtube.com/watch?v=GeQAQXlJ_9Y&t=382s)
     - [PRIMEIRO EMPREGO na EUROPA com Paulo Diniz](https://www.youtube.com/watch?v=Zv_QDjN29_g)
-- [Nomadicats YouTube channel](https://www.youtube.com/channel/UCIxXCFpniwQYEa5cwDfBOTg)
-    - [Como consegui um emprego na Europa como programador](https://www.youtube.com/watch?v=ZDtrjOstLBY&t=308s) - História completa de como o [Rafael Soares](https://github.com/rafaels88) conseguiu emprego na Holanda.
+- [Nomadicats](https://www.youtube.com/channel/UCIxXCFpniwQYEa5cwDfBOTg) - canal do [Rafael Soares](https://github.com/rafaels88)
+    - [Como consegui um emprego na Europa como programador](https://www.youtube.com/watch?v=ZDtrjOstLBY&t=308s) - História completa de como o Rafael conseguiu emprego na Holanda.
 
 ## Livros
 
