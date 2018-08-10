@@ -20,6 +20,12 @@ Traga suas dúvidas :)
 
 https://t.me/programandonagringa
 
+## Fórum
+
+Venha tirar suas dúvidas e compartilhar suas dicas!
+
+- https://www.programandonagringa.com/ <<<<
+
 ## Como utilizar este guia ?
 
 Navegue para as seções que lhe interessam no menu ao lado esquerdo <<
