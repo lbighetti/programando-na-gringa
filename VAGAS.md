@@ -9,6 +9,8 @@
 - http://app.honeypot.io/ref/r5nU8H2WJqAP836AkqJwhi74
     - Plataforma de vagas em que as empresas "aplicam" pros developers.
     - Disclaimer: esse link conta como referral para mim (@lbighetti)
+- https://talent.io
+    - Plataforma de vagas em que empresas "aplicam" pros developers. Mesmo segmento do Honeypot.
 - https://landing.jobs/
     - Vagas em diversas Empresas e Startups na Europa
 - http://www.trustinsoda.com/
